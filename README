@@ -1,0 +1,6 @@
+OmniTracker marries the OmniGroup's excellent OmniFocus with Pivotal's Pivotal Tracker.  
+
+Syncing with Tracker requires an API token.  Once configured, OmniTracker will create a folder pattern with a single directory called 'Tracker' which will have sub-directories for the accounts.  Within each account directory will be a project for each of your Tracker projects.
+
+Tracker -> ACCOUNT_NAME -> PROJECT_NAME
+
